@@ -1,4 +1,3 @@
-# Sebas-AI-Ops 
 # 🧠 Sebas-AI-Ops
 
 > Sistema creativo y operativo para automatizar y potenciar proyectos personales y profesionales con inteligencia artificial.
